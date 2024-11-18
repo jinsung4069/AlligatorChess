@@ -3,7 +3,7 @@
 const nextConfig = {
   output: 'export',
   reactStrictMode: true,
-  basePath: '',
+  basePath: '/AlligatorChess',
   images: {
     unoptimized: true
   },
